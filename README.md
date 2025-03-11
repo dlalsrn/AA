@@ -39,5 +39,8 @@ https://velog.io/@lmg0052/series/Unity-AA
 - **게임 플레이 영상 링크**: https://youtube.com/shorts/gpx5_E_EFUY?feature=share
 <br><br/>
 
+## 참고 영상
+https://www.youtube.com/watch?v=g3xKeBkGGRU
+
 ## 연락처
 - **E-Mail**: qazzaq1541@gmail.com
