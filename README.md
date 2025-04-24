@@ -39,7 +39,8 @@ https://velog.io/@lmg0052/series/Unity-AA
 - **게임 플레이 영상 링크**: https://youtube.com/shorts/gpx5_E_EFUY?feature=share
 <br><br/>
 
-## 참고 영상
+## 참고
+본 게임은 나도코딩님의 강의 영상을 참고하여 만들었음을 알립니다.
 https://www.youtube.com/watch?v=g3xKeBkGGRU
 
 ## 연락처
